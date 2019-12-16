@@ -103,7 +103,7 @@ Data Sources:
 https://www.kaggle.com/dgawlik/house-prices-eda/data
 
 Team:
-Rakesh 
+Rakesh Rao Chitagoru
 Sravanthi Aleti
 Mounica Aleti
 
