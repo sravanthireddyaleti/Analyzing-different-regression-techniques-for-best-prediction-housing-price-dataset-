@@ -99,11 +99,9 @@ Here's a brief version of what you'll find in the data description file.
     SaleType: Type of sale
     SaleCondition: Condition of sale
 
-Data Sources:
-https://www.kaggle.com/dgawlik/house-prices-eda/data
 
 Team:
 Rakesh Rao Chitagoru
 Sravanthi Aleti
-Mounica Aleti
+
 
